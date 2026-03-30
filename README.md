@@ -14,8 +14,8 @@
 - To provide a touchless human-computer interaction system.
 
 ### ⚙️ Methodology
-Requirement Analysis: Identify gestures and corresponding mouse operations (move, click, scroll, etc.).
-Design Phase: Design gesture mappings based on finger combinations.
+- Requirement Analysis: Identify gestures and corresponding mouse operations (move, click, scroll, etc.).
+- Design Phase: Design gesture mappings based on finger combinations.
 
 #### Development Phase:
 - Use OpenCV to capture webcam input.
@@ -24,8 +24,8 @@ Design Phase: Design gesture mappings based on finger combinations.
 - Use PyAutoGUI to control mouse actions.
 - Apply smoothing techniques for stable cursor movement.
 
-Testing Phase: Test gesture accuracy, responsiveness, and performance under different lighting conditions.
-Deployment Phase: Run locally on a system with a webcam. Can be shared via GitHub.
+- Testing Phase: Test gesture accuracy, responsiveness, and performance under different lighting conditions.
+- Deployment Phase: Run locally on a system with a webcam. Can be shared via GitHub.
 
 ### 💡 Proposed System
 The proposed system replaces a physical mouse with hand gestures detected via a webcam.
